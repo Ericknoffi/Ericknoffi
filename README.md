@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashokraj</h1>
-<h3 align="center">🎓 I'm currently pursuing a Bachelor's degree in Information Technology (B.E. IT)/h3>
+<h3 align="center">🎓 I'm currently pursuing a Bachelor's degree in Information Technology (B.E. IT)
 
 ---
 
