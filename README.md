@@ -29,7 +29,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashokraj%20Ramesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokraj-ash999/)
 [![Gmail](https://img.shields.io/badge/Gmail-ashokrajramesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokramesh59@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-darkblue?style=for-the-badge&logo=github&logoColor=white)](https://ericknoffi.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=web&logoColor=white)](https://ericknoffi.github.io/portfolio/)
+
 
 
 ---
