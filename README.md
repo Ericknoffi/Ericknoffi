@@ -7,7 +7,7 @@
 
 - 🎓 Currently pursuing B.E. in IT in Atharva college of engineering
 
-- 👨‍💻 Interested in Web Development, Cybersecurity, and Machine Learning
+- 👨‍💻 Obsessed with building, breaking, and understanding code
 
 - 🔧 Always exploring new tools, tech stacks, and frameworks
 
