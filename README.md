@@ -35,4 +35,4 @@
 
 ---
 
-<p align="center">🛡 Built with 💻 by <b>Ashokraj</b></p>
+<p align="center"> Built with 💻 by **Ashokraj** and a cold cup of coffee ☕ </p>
