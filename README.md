@@ -27,12 +27,8 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashokraj-ash999/" style="display: inline-flex; align-items: center; background-color: #0A66C2; color: white; border-radius: 9999px; padding: 8px 20px; text-decoration: none; font-weight: 600; font-family: Arial, sans-serif;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24" style="margin-right: 10px;" />
-    LinkedIn
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashokraj%20Ramesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokraj-ash999/)
+
 ---
 
 <p align="center">🛡 Built with 💻 by <b>Ashokraj</b></p>
