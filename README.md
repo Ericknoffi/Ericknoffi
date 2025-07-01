@@ -3,7 +3,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Get to Know Me
 
 - 🎓 Currently pursuing B.E. in IT in Atharva college of engineering
 
@@ -17,7 +17,7 @@
   
 ---
 
-## 🔧 Tech & Tools I Know
+## 🔧 Things I Believe I Know
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,7 +25,7 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashokraj%20Ramesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokraj-ash999/)
 [![Gmail](https://img.shields.io/badge/Gmail-ashokrajramesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokramesh59@gmail.com)
